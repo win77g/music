@@ -423,10 +423,10 @@
 .icon-bar-chart-o:before {
   content: "\f080";
 }
-.icon-twitter-square:before {
+.fa fa-twitter-square:before {
   content: "\f081";
 }
-.icon-facebook-square:before {
+.fa fa-facebook-square:before {
   content: "\f082";
 }
 .icon-camera-retro:before {
@@ -459,7 +459,7 @@
 .icon-sign-out:before {
   content: "\f08b";
 }
-.icon-linkedin-square:before {
+.fa fa-linkedin-square:before {
   content: "\f08c";
 }
 .icon-thumb-tack:before {
@@ -495,13 +495,13 @@
 .icon-phone-square:before {
   content: "\f098";
 }
-.icon-twitter:before {
+.fa fa-twitter:before {
   content: "\f099";
 }
-.icon-facebook:before {
+.fa fa-facebook:before {
   content: "\f09a";
 }
-.icon-facebook-f:before {
+.fa fa-facebook-f:before {
   content: "\f09a";
 }
 .icon-github:before {
@@ -645,10 +645,10 @@
 .icon-truck:before {
   content: "\f0d1";
 }
-.icon-pinterest:before {
+.fa fa-pinterest:before {
   content: "\f0d2";
 }
-.icon-pinterest-square:before {
+.fa fa-pinterest-square:before {
   content: "\f0d3";
 }
 .icon-google-plus-square:before {
@@ -696,7 +696,7 @@
 .icon-envelope:before {
   content: "\f0e0";
 }
-.icon-linkedin:before {
+.fa fa-linkedin:before {
   content: "\f0e1";
 }
 .icon-rotate-left:before {
@@ -1134,10 +1134,10 @@
 .icon-thumbs-down:before {
   content: "\f165";
 }
-.icon-youtube-square:before {
+.fa fa-youtube-square:before {
   content: "\f166";
 }
-.icon-youtube:before {
+.fa fa-youtube:before {
   content: "\f167";
 }
 .icon-xing:before {
@@ -1146,7 +1146,7 @@
 .icon-xing-square:before {
   content: "\f169";
 }
-.icon-youtube-play:before {
+.fa fa-youtube-play:before {
   content: "\f16a";
 }
 .icon-dropbox:before {
@@ -1155,7 +1155,7 @@
 .icon-stack-overflow:before {
   content: "\f16c";
 }
-.icon-instagram:before {
+.fa fa-instagram:before {
   content: "\f16d";
 }
 .icon-flickr:before {
@@ -1782,10 +1782,10 @@
 .icon-genderless:before {
   content: "\f22d";
 }
-.icon-facebook-official:before {
+.fa fa-facebook-official:before {
   content: "\f230";
 }
-.icon-pinterest-p:before {
+.fa fa-pinterest-p:before {
   content: "\f231";
 }
 .icon-whatsapp:before {
@@ -3849,7 +3849,7 @@
 .icon-memory:before {
   content: "\e322";
 }
-.icon-menu:before {
+.fa fa-bars:before {
   content: "\e5d2";
 }
 .icon-message:before {
@@ -4905,7 +4905,7 @@
 .icon-wrap_text:before {
   content: "\e25b";
 }
-.icon-youtube_searched_for:before {
+.fa fa-youtube_searched_for:before {
   content: "\e8fa";
 }
 .icon-zoom_in:before {
