@@ -533,7 +533,7 @@ button.ui-button::-moz-focus-inner {
 .ui-icon-search { background-position: -160px -112px; }
 .ui-icon-wrench { background-position: -176px -112px; }
 .ui-icon-gear { background-position: -192px -112px; }
-.ui-icon-heart { background-position: -208px -112px; }
+.ui-fa fa-heart { background-position: -208px -112px; }
 .ui-icon-star { background-position: -224px -112px; }
 .ui-icon-link { background-position: -240px -112px; }
 .ui-icon-cancel { background-position: 0 -128px; }
@@ -562,7 +562,7 @@ button.ui-button::-moz-focus-inner {
 .ui-icon-radio-off { background-position: -112px -144px; }
 .ui-icon-pin-w { background-position: -128px -144px; }
 .ui-icon-pin-s { background-position: -144px -144px; }
-.ui-icon-play { background-position: 0 -160px; }
+.ui-fa fa-play { background-position: 0 -160px; }
 .ui-icon-pause { background-position: -16px -160px; }
 .ui-icon-seek-next { background-position: -32px -160px; }
 .ui-icon-seek-prev { background-position: -48px -160px; }

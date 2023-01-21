@@ -14,18 +14,18 @@
   font-weight: normal;
   font-style: normal; }
 
-.vjs-icon-play, .video-js .vjs-big-play-button .vjs-icon-placeholder:before, .video-js .vjs-play-control .vjs-icon-placeholder {
+.vjs-fa fa-play, .video-js .vjs-big-play-button .vjs-icon-placeholder:before, .video-js .vjs-play-control .vjs-icon-placeholder {
   font-family: VideoJS;
   font-weight: normal;
   font-style: normal; }
-  .vjs-icon-play:before, .video-js .vjs-play-control .vjs-icon-placeholder:before {
+  .vjs-fa fa-play:before, .video-js .vjs-play-control .vjs-icon-placeholder:before {
     content: "\f101"; }
 
-.vjs-icon-play-circle {
+.vjs-fa fa-play-circle {
   font-family: VideoJS;
   font-weight: normal;
   font-style: normal; }
-  .vjs-icon-play-circle:before {
+  .vjs-fa fa-play-circle:before {
     content: "\f102"; }
 
 .vjs-icon-pause, .video-js .vjs-play-control.vjs-playing .vjs-icon-placeholder {

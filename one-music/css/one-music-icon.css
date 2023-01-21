@@ -138,7 +138,7 @@
 .icon-gamepad:before {
   content: "\e925";
 }
-.icon-heart:before {
+.fa fa-heart:before {
   content: "\e926";
 }
 .icon-home:before {
@@ -237,7 +237,7 @@
 .icon-planet-earth:before {
   content: "\e946";
 }
-.icon-play-button:before {
+.fa fa-play-button:before {
   content: "\e947";
 }
 .icon-power-button:before {
